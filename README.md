@@ -93,15 +93,23 @@
 
 ---
 
-### 🐍 My Contribution Graph
-
-### 🐍 My Contribution Graph
+### 🐍 My GitHub Activity
 
 <div align="center">
+
+  <!-- The base contribution graph image -->
   <picture>
-    <!-- Use ?user=Eri-Boutsuki to specify your profile -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Eri-Boutsuki" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=Eri-Boutsuki" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=Eri-Boutsuki" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/dark/Eri-Boutsuki" />
+    <img alt="Eri-Boutsuki's Contribution Graph" src="https://ghchart.rshah.org/Eri-Boutsuki" />
   </picture>
+  
+  <!-- The snake animation, which will be displayed on top of the graph -->
+  <!-- We use `&color_snake=...&color_dots=#00000000` to make the background transparent -->
+  <img 
+    style="position: relative; top: -148px; left: -10px;"
+    src="https://raw.githubusercontent.com/platane/snk/output/snake.svg?user=Eri-Boutsuki&color_snake=#bd93f9&color_dots=#00000000"
+  />
+
 </div>
+
+
