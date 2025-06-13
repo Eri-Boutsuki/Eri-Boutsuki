@@ -8,15 +8,16 @@
   <br>
 
   <p align="left">
-    - 🔭 I’m currently working on **[Your Cool Project]**
+    - 🔭 I’m currently working on my website
     <br><br>
-    - 🌱 I’m currently learning **[A Technology, e.g., React, Python, etc.]**
+    - 🌱 I’m currently learning html css...
     <br><br>
-    - 💬 Ask me about **JavaScript, Web Design, and Linux**
+    - ⚡ Fun fact: I love animatin in anime style
     <br><br>
+    
     - 📫 How to reach me: **[your.email@example.com]**
     <br><br>
-    - ⚡ Fun fact: **I love 3D modeling with Blender!**
+
   </p>
 </div>
 
