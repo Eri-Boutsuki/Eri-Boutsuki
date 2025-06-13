@@ -93,19 +93,19 @@
 
 ---
 
-### 🐍 Watch My Contributions Come to Life
+### 🐍 My Live Contributions
 
 <div align="center">
   <picture>
-    <!-- Dark Mode Snake with Dracula-themed colors -->
+    <!-- Dark Mode: Themed snake AND themed contribution dots -->
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Eri-Boutsuki&theme=dark&color_snake=#ff79c6,#bd93f9,#ffb86c"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Eri-Boutsuki&theme=dark&color_snake=#ff79c6,#bd93f9,#ffb86c&color_dots=#44475a,#6272a4,#bd93f9,#ff79c6"
     />
-    <!-- Light Mode Snake with a solid purple color -->
+    <!-- Light Mode: Purple snake and a subtler, custom grid color scheme -->
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=Eri-Boutsuki&color_snake=#7928a1"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=Eri-Boutsuki&color_snake=#7928a1&color_dots=#d8b3ff,#b37feb,#8e4cc2,#6a1a98"
     />
     <img 
       alt="github contribution grid snake animation" 
