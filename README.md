@@ -1,27 +1,38 @@
-<div align="center">
-  <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<!--
+=======================================================================================
+======================== IMPROVED & THEMED README BY GITHUB.COM/IKATYBO =================
+=======================================================================================
+-->
+<!-- This is a two-column table for a clean layout. -->
+<table>
+<tr>
+<td valign="top" width="65%">
 
-  <h1>Hi 👋, I'm Eri!</h1>
+# Hi there, I'm Eri! 👋
+
+### A passionate developer from [Your Location] with a love for creating beautiful and intuitive digital experiences.
+
+I'm currently diving deep into web development and exploring the world of animation. My goal is to blend creative design with robust code.
+
+*   🔭 **I’m currently working on:** My personal portfolio website & a secret animation project.
+*   🌱 **I’m currently learning:** Advanced CSS, JavaScript frameworks, and 3D modeling in Blender.
+*   ⚡ **Fun fact:** I can spend hours creating anime-style animations from scratch!
+
+</td>
+<td valign="top" width="35%">
+
+  <div align="right">
+    <img alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+  </div>
   
-  <h3>A passionate developer from [Your Location] with a love for creating beautiful and intuitive digital experiences.</h3>
-  
-  <br>
-
-  <p align="left">
-    - 🔭 I’m currently working on my website
-    <br><br>
-    - 🌱 I’m currently learning html css...
-    <br><br>
-    - ⚡ Fun fact: I love animatin in anime style
-    <br><br>
-      
-
-  </p>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Let's Connect!
+
 <p align="left">
   <a href="https://youtube.com/c/your-channel-name" target="blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
@@ -35,9 +46,6 @@
   <a href="https://twitter.com/your-username" target="blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
-  <a href="https://facebook.com/your-username" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
   <a href="https://ko-fi.com/your-username" target="blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
   </a>
@@ -45,66 +53,59 @@
 
 ---
 
-### 💻 Tech Stack & Tools:
-<div align="left"> 
-  <!-- Programming & Markup -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+### 💻 My Tech Stack & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=3CB371" height="30" alt="HTML5 Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=3CB371" height="30" alt="CSS3 Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=3CB371" height="30" alt="JavaScript Badge"/></a>
   
-  <!-- OS & Platforms -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
+  <br><br>
   
-  <!-- Software & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-</div>
+  <!-- Tools & Software -->
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=2E8B57" height="30" alt="VS Code Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&color=2E8B57" height="30" alt="Blender Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=2E8B57" height="30" alt="Figma Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&color=2E8B57" height="30" alt="Photoshop Badge"/></a>
+  
+  <br><br>
+
+  <!-- OS -->
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=3CB371" height="30" alt="Linux Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=3CB371" height="30" alt="Windows Badge"/></a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
+<!--
+Themed the stats cards to be transparent with green accents.
+You can change the username from "Eri-Boutsuki" to your own.
+-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eri-Boutsuki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eri-Boutsuki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eri-Boutsuki&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=00000000&title_color=2E8B57&text_color=c9d1d9&icon_color=3CB371&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eri-Boutsuki&layout=compact&theme=transparent&bg_color=00000000&title_color=2E8B57&text_color=c9d1d9&icon_color=3CB371&hide_border=true&langs_count=6" height="150" alt="top languages graph" />
   <br>
   <img src="https://profile-counter.glitch.me/Eri-Boutsuki/count.svg?" alt="Profile Counter" />
 </div>
 
 ---
 
-### 🐍 My Live Contributions
+### 🐍 My Contribution Snake
 
 <div align="center">
   <picture>
-    <!-- Dark Mode: Themed snake AND themed contribution dots -->
+    <!-- Dark Mode: Green snake on dark background -->
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Eri-Boutsuki&theme=dark&color_snake=#ff79c6,#bd93f9,#ffb86c&color_dots=#44475a,#6272a4,#bd93f9,#ff79c6"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Eri-Boutsuki&theme=dark&color_snake=_#3CB371&color_dots=#44475a,#6272a4,#3CB371,#2E8B57"
     />
-    <!-- Light Mode: Purple snake and a subtler, custom grid color scheme -->
+    <!-- Light Mode: Green snake on light background -->
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=Eri-Boutsuki&color_snake=#7928a1&color_dots=#d8b3ff,#b37feb,#8e4cc2,#6a1a98"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=Eri-Boutsuki&color_snake=_#3CB371&color_dots=#d6e685,#8cc665,#44a340,#1e6823"
     />
     <img 
       alt="github contribution grid snake animation" 
@@ -112,5 +113,3 @@
     />
   </picture>
 </div>
-
-
