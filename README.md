@@ -14,9 +14,7 @@
     <br><br>
     - ⚡ Fun fact: I love animatin in anime style
     <br><br>
-    
-    - 📫 How to reach me: **[your.email@example.com]**
-    <br><br>
+      
 
   </p>
 </div>
