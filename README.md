@@ -93,23 +93,25 @@
 
 ---
 
-### 🐍 My GitHub Activity
+### 🐍 Watch My Contributions Come to Life
 
 <div align="center">
-
-  <!-- The base contribution graph image -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/dark/Eri-Boutsuki" />
-    <img alt="Eri-Boutsuki's Contribution Graph" src="https://ghchart.rshah.org/Eri-Boutsuki" />
+    <!-- Dark Mode Snake with Dracula-themed colors -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Eri-Boutsuki&theme=dark&color_snake=#ff79c6,#bd93f9,#ffb86c"
+    />
+    <!-- Light Mode Snake with a solid purple color -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=Eri-Boutsuki&color_snake=#7928a1"
+    />
+    <img 
+      alt="github contribution grid snake animation" 
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=Eri-Boutsuki" 
+    />
   </picture>
-  
-  <!-- The snake animation, which will be displayed on top of the graph -->
-  <!-- We use `&color_snake=...&color_dots=#00000000` to make the background transparent -->
-  <img 
-    style="position: relative; top: -148px; left: -10px;"
-    src="https://raw.githubusercontent.com/platane/snk/output/snake.svg?user=Eri-Boutsuki&color_snake=#bd93f9&color_dots=#00000000"
-  />
-
 </div>
 
 
